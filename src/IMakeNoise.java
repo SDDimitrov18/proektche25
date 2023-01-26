@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface IMakeNoise {
+public interface IMakeNoise {
+    void makeNoise();
 }
